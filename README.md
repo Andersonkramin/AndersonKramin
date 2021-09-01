@@ -1,8 +1,8 @@
 ## Anderson Kramin !! 
  <div>
   <a href="https://github.com/andersonkramin">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andersonkramin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkramin&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=andersonkramin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkramin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="AK-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="AK-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AK-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="right" alt="Ak-Gif" src="https://c.tenor.com/UoJDqoe5TTAAAAAd/surto-surtando.gif">
+    <img align="right" alt="Ak-Gif" height="180" width="180" src="https://media.tenor.com/images/49894104893cc7b0c7410e69f6c528c5/tenor.gif">
 </div>
   
   ##
