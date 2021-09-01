@@ -12,7 +12,7 @@
   <img align="center" alt="AK-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AK-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="right" alt="Ak-Gif" height="180" width="180" src="https://media.tenor.com/images/49894104893cc7b0c7410e69f6c528c5/tenor.gif">
+    <img align="right" alt="Ak-Gif-Surtando" src="https://i.pinimg.com/originals/b8/89/ab/b889ab7bc0ccad5afa105a641ea8b1f8.gif">
 </div>
   
   ##
